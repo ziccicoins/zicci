@@ -7,6 +7,7 @@ Acho
 Okey
 Wisdom
 landmark
+israel
 
 
 
