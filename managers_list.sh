@@ -7,6 +7,5 @@ Acho
 Okey
 Wisdom
 landmark
-
-
+jacob
 
