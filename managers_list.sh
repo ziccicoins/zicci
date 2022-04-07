@@ -8,6 +8,5 @@ Okey
 Wisdom
 landmark
 israel
-
-
+jacob
 
